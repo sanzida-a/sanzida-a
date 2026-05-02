@@ -1,77 +1,109 @@
 <div align="center">
 
-# Sanzida Akter
+<a href="https://github.com/sanzida-a">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=720&height=80&lines=%24+whoami;Sanzida+Akter+%E2%80%94+AI+Engineer;%24+cat+roles.txt;Design+Project+Lead+%C2%B7+Educator+%C2%B7+Researcher;%24+./build.sh+--mode%3Dagentic-AI" alt="Typing SVG" />
+</a>
 
-**Design Project Lead · AI Engineer · Educator**
+<br>
 
-*Dhaka, Bangladesh*
+```bash
+> Building agentic AI systems · Teaching the next generation · Mining patterns from data streams
+> Location: Dhaka, Bangladesh  ·  Status: open to collaboration
+```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanziakter)
-[![Email](https://img.shields.io/badge/Email-grey?style=flat-square&logo=gmail&logoColor=white)](mailto:brishti.sanzida@gmail.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-grey?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/BrishtiS)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-000?style=flat-square&logo=linkedin&logoColor=00FF9C&labelColor=000)](https://www.linkedin.com/in/sanziakter)
+[![Email](https://img.shields.io/badge/-EMAIL-000?style=flat-square&logo=gmail&logoColor=00FF9C&labelColor=000)](mailto:brishti.sanzida@gmail.com)
+[![HackerRank](https://img.shields.io/badge/-HACKERRANK-000?style=flat-square&logo=hackerrank&logoColor=00FF9C&labelColor=000)](https://www.hackerrank.com/profile/BrishtiS)
+[![GitHub](https://img.shields.io/badge/-GITHUB-000?style=flat-square&logo=github&logoColor=00FF9C&labelColor=000)](https://github.com/sanzida-a)
 
 </div>
 
-<br>
+---
+
+```bash
+sanzida@dev:~$ cat about.md
+```
+
+```yaml
+name:        Sanzida Akter
+roles:       [Design Project Lead, AI Engineer, Educator]
+education:
+  - MSc Computer Science, University of Dhaka
+  - BSc Computer Science, United International University
+research:    "Mining High-Utility Occupancy Patterns over Data Streams"
+languages:   [Bengali, English (IELTS 7.0), Spanish]
+mission:     Build intelligent systems that are useful, measured, and well-engineered.
+```
 
 ---
 
-### Profile
-
-I work at the intersection of **applied AI**, **research**, and **education** — designing intelligent systems that are useful, measured, and grounded in good engineering. My current focus is on **agentic AI**: retrieval-augmented agents, multi-agent orchestration, and voice-driven interfaces.
-
-I hold a Master's in Computer Science from the University of Dhaka, where my research centered on **mining high-utility occupancy patterns over data streams**. Before that, I spent two years as a lecturer, mentoring undergraduates and shaping curriculum.
-
-<br>
-
-### Currently
-
-- &nbsp;Leading design and development on AI agent projects
-- &nbsp;Building production-grade RAG pipelines and multi-agent workflows
-- &nbsp;Exploring the boundary between LLM reasoning and structured data systems
-
-<br>
-
-### Areas of Focus
-
-```
-AI Engineering      →  LangChain · LangGraph · OpenAI Agents SDK · RAG · Multi-Agent Systems
-Backend             →  Python · FastAPI · Node.js · Express · Pydantic
-Frontend            →  React · Tailwind · Next.js · Firebase
-Data & Research     →  PyTorch · Transformers · ChromaDB · Pattern Mining · Data Streams
-Tooling             →  Docker · Git · n8n · Logfire · Vercel
+```bash
+sanzida@dev:~$ ls ./focus-areas/
 ```
 
+```text
+├── ai-engineering/
+│   ├── langchain · langgraph · openai-agents-sdk
+│   ├── retrieval-augmented-generation (RAG)
+│   ├── multi-agent-systems
+│   └── voice-interfaces (whisper · coqui-tts)
+│
+├── backend/
+│   ├── python · fastapi · pydantic · logfire
+│   └── node · express · mongodb · firebase
+│
+├── frontend/
+│   ├── react · tailwind · next · vercel
+│
+├── data-and-research/
+│   ├── pytorch · transformers · chromadb
+│   └── pattern-mining · data-streams
+│
+└── tooling/
+    ├── docker · git · n8n · latex
+```
+
+---
+
+```bash
+sanzida@dev:~$ ./stats.sh
+```
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sanzida-a&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&icon_color=00FF9C&title_color=00FF9C&text_color=C9D1D9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzida-a&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" height="170"/>
+
 <br>
 
-### Background
+<img src="https://streak-stats.demolab.com?user=sanzida-a&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" height="170"/>
 
-| | |
-|---|---|
-| **MSc, Computer Science** | University of Dhaka — *Mining High-Utility Occupancy Patterns over Data Streams* |
-| **BSc, Computer Science** | United International University — *Hybrid Feature Selection for High-Dimensional Data* |
-| **Lecturer** | ZNRF University of Management Sciences (2023 – 2024) |
-| **Languages** | Bengali · English (IELTS 7.0) · Spanish (Elementary) |
+</div>
 
-<br>
+---
 
-### Recognition
+```bash
+sanzida@dev:~$ cat recognition.log
+```
 
-Research Grant & Fellowship — *Bangladesh ICT Division* &nbsp;·&nbsp; B-JET Program — *JICA & BCC* &nbsp;·&nbsp; 8× Merit Scholarship — *UIU*
-
-<br>
+```text
+[2024]  Research Grant & Fellowship .................... Bangladesh ICT Division
+[----]  B-JET Program .................................. JICA × Bangladesh Computer Council
+[----]  8× Merit-Based Semester Scholarship ............ United International University
+[----]  First Runner-Up, CSE Project Show .............. UIU
+[----]  Graphic Design Champion ........................ UIU Cultural Competition
+```
 
 ---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sanzida-a&show_icons=true&theme=graywhite&hide_border=true&icon_color=000000&title_color=000000&text_color=333333&bg_color=ffffff" height="155"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzida-a&layout=compact&theme=graywhite&hide_border=true&title_color=000000&text_color=333333&bg_color=ffffff" height="155"/>
-
-<br><br>
-
-*Open to collaboration on AI research, agentic systems, and thoughtful engineering.*
+```bash
+sanzida@dev:~$ echo "Let's build something."
+```
 
 **brishti.sanzida@gmail.com**
+
+<img src="https://komarev.com/ghpvc/?username=sanzida-a&label=PROFILE+VIEWS&color=00FF9C&style=flat-square&labelColor=000000" alt="Profile views"/>
 
 </div>
