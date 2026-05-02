@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/sanzida-a">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=720&height=80&lines=%24+whoami;Sanzida+Akter+%E2%80%94+AI+Engineer;%24+cat+roles.txt;Design+Project+Lead+%C2%B7+Educator+%C2%B7+Researcher;%24+./build.sh+--mode%3Dagentic-AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=720&height=80&lines=%24+whoami;Sanzida+Akter+%E2%80%94+AI+Engineer;%24+cat+roles.txt;Project+Lead+%C2%B7+Educator+%C2%B7+Researcher;%24+./build.sh+--mode%3Dagentic-AI" alt="Typing SVG" />
 </a>
 
 <br>
