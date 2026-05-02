@@ -26,7 +26,7 @@ sanzida@dev:~$ cat about.md
 
 ```yaml
 name:        Sanzida Akter
-roles:       [Design Project Lead, AI Engineer, Educator]
+roles:       [Project Lead, AI Engineer, Educator]
 education:
   - MSc Computer Science, University of Dhaka
   - BSc Computer Science, United International University
