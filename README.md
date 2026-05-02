@@ -1,122 +1,77 @@
-<h1 align="center">Hi there, I'm Sanzida 👋</h1>
+<div align="center">
 
-<p align="center">
-  <em>AI Engineer · Lecturer · Lifelong Learner from Dhaka, Bangladesh 🇧🇩</em>
-</p>
+# Sanzida Akter
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sanziakter">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:brishti.sanzida@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/BrishtiS">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
-</p>
+**Design Project Lead · AI Engineer · Educator**
+
+*Dhaka, Bangladesh*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanziakter)
+[![Email](https://img.shields.io/badge/Email-grey?style=flat-square&logo=gmail&logoColor=white)](mailto:brishti.sanzida@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-grey?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/BrishtiS)
+
+</div>
+
+<br>
 
 ---
 
-### 🌱 About Me
+### Profile
 
-- 🎓 **MSc in Computer Science & Engineering** from the University of Dhaka
-- 🔬 Researcher in **High Utility Occupancy Pattern Mining** over data streams
-- 👩‍🏫 Former Lecturer at **ZNRF University of Management Sciences**
-- 🤖 Currently building **AI agents, RAG systems, and multi-agent workflows**
-- 🌍 Speak Bengali, English (IELTS 7.0), and a bit of Spanish
-- 💡 *Fun fact:* I'm equally happy debugging a transformer or sketching a 3D model in OpenGL
+I work at the intersection of **applied AI**, **research**, and **education** — designing intelligent systems that are useful, measured, and grounded in good engineering. My current focus is on **agentic AI**: retrieval-augmented agents, multi-agent orchestration, and voice-driven interfaces.
 
----
+I hold a Master's in Computer Science from the University of Dhaka, where my research centered on **mining high-utility occupancy patterns over data streams**. Before that, I spent two years as a lecturer, mentoring undergraduates and shaping curriculum.
 
-### 🛠️ Tech Stack
+<br>
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-</p>
+### Currently
 
-**AI / ML**
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-FF6F61?style=flat"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Whisper-000000?style=flat&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Coqui_TTS-FF7F00?style=flat"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FFCA28?style=flat"/>
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-</p>
+- &nbsp;Leading design and development on AI agent projects
+- &nbsp;Building production-grade RAG pipelines and multi-agent workflows
+- &nbsp;Exploring the boundary between LLM reasoning and structured data systems
 
-**Web & Backend**
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
-</p>
+<br>
 
-**Tools**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white"/>
-</p>
+### Areas of Focus
+
+```
+AI Engineering      →  LangChain · LangGraph · OpenAI Agents SDK · RAG · Multi-Agent Systems
+Backend             →  Python · FastAPI · Node.js · Express · Pydantic
+Frontend            →  React · Tailwind · Next.js · Firebase
+Data & Research     →  PyTorch · Transformers · ChromaDB · Pattern Mining · Data Streams
+Tooling             →  Docker · Git · n8n · Logfire · Vercel
+```
+
+<br>
+
+### Background
+
+| | |
+|---|---|
+| **MSc, Computer Science** | University of Dhaka — *Mining High-Utility Occupancy Patterns over Data Streams* |
+| **BSc, Computer Science** | United International University — *Hybrid Feature Selection for High-Dimensional Data* |
+| **Lecturer** | ZNRF University of Management Sciences (2023 – 2024) |
+| **Languages** | Bengali · English (IELTS 7.0) · Spanish (Elementary) |
+
+<br>
+
+### Recognition
+
+Research Grant & Fellowship — *Bangladesh ICT Division* &nbsp;·&nbsp; B-JET Program — *JICA & BCC* &nbsp;·&nbsp; 8× Merit Scholarship — *UIU*
+
+<br>
 
 ---
 
-### 🚀 Featured Projects
+<div align="center">
 
-| Project | Description | Tech |
-|---|---|---|
-| 🧠 **Research Assistant AI Agent** | Dual-memory RAG agent for PDF querying with persistent knowledge | LangGraph · ChromaDB · FastAPI |
-| 📰 **NewsSense** | Multi-agent system for news trends, fact-checking & summaries | OpenAI Agents SDK · LangChain · Logfire |
-| 🎯 **CareerMate** | AI advisor for job matching, skill gaps & course recommendations | LangChain · SentenceTransformers |
-| 🧾 **Invoice Image Analyzer** | Extracts structured JSON from scanned/digital invoices | FastAPI · Pytesseract · Docker |
-| 🎙️ **VoiceBot AI** | Voice-to-voice chatbot using STT, LLMs, and TTS | Whisper · GPT · Coqui TTS |
-| 👗 **Virtual Try-On AI** | Fashion try-on app with image segmentation | SegFormer · Stable Diffusion · Streamlit |
-| 💼 **Job Portal** | Full-stack job application platform | React · MongoDB · Express · Firebase |
+<img src="https://github-readme-stats.vercel.app/api?username=sanzida-a&show_icons=true&theme=graywhite&hide_border=true&icon_color=000000&title_color=000000&text_color=333333&bg_color=ffffff" height="155"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzida-a&layout=compact&theme=graywhite&hide_border=true&title_color=000000&text_color=333333&bg_color=ffffff" height="155"/>
 
-➡️ *Explore more in my [pinned repositories](https://github.com/sanzida-a?tab=repositories)*
+<br><br>
 
----
+*Open to collaboration on AI research, agentic systems, and thoughtful engineering.*
 
-### 📊 GitHub Stats
+**brishti.sanzida@gmail.com**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanzida-a&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzida-a&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sanzida-a&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
-### 🏆 Highlights
-
-- 🎖️ Research Grant & Fellowship — Bangladesh ICT Division
-- 🏅 8-time Merit-Based Semester Scholarship — UIU
-- 🥈 First Runner-Up — CSE Electronics Lab Project Show, UIU
-- 🎓 Graduate of the Bangladesh-Japan ICT Engineers' Training Program (B-JET)
-
----
-
-<p align="center">
-  <em>"Build, learn, share — repeat."</em><br>
-  📫 Reach me at <a href="mailto:brishti.sanzida@gmail.com">brishti.sanzida@gmail.com</a>
-</p>
+</div>
