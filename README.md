@@ -2,7 +2,7 @@
 
 <a href="https://sanzida.vercel.app">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=900&color=00FF9C&center=true&vCenter=true&width=720&height=80&lines=Sanzida+Akter;AI+Engineer+%C2%B7+Project+Lead;Educator+%C2%B7+Researcher;Building+useful+agentic+AI+systems"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=80&lines=Sanzida+Akter;AI+Engineer+%C2%B7+Project+Lead;Educator+%C2%B7+Researcher;Building+useful+agentic+AI+systems"
     alt="Sanzida Akter — AI Engineer, Project Lead, Educator, and Researcher"
   />
 </a>
@@ -15,10 +15,10 @@ Dhaka, Bangladesh · Open to research and engineering collaborations
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF9C)](https://sanzida.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C)](https://www.linkedin.com/in/sanziakter)
-[![Email](https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C)](mailto:brishti.sanzida@gmail.com)
-[![HackerRank](https://img.shields.io/badge/HACKERRANK-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00FF9C)](https://www.hackerrank.com/profile/BrishtiS)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF)](https://sanzida.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/sanziakter)
+[![Email](https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:brishti.sanzida@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HACKERRANK-0D1117?style=for-the-badge&logo=hackerrank&logoColor=58A6FF)](https://www.hackerrank.com/profile/BrishtiS)
 
 </div>
 
@@ -159,8 +159,7 @@ software development, and technical leadership.
 
 <br>
 
-[![Explore My Portfolio](https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-00FF9C?style=for-the-badge&logo=vercel&logoColor=000000)](https://sanzida.vercel.app)
-
+[![Explore My Portfolio](https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-58A6FF?style=for-the-badge&logo=vercel&logoColor=FFFFFF)](https://sanzida.vercel.app)
 </div>
 
 ---
@@ -170,13 +169,13 @@ software development, and technical leadership.
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=sanzida-a&show_icons=true&hide_border=true&bg_color=0D1117&icon_color=00FF9C&title_color=00FF9C&text_color=C9D1D9&ring_color=00FF9C"
+  src="https://github-readme-stats.vercel.app/api?username=sanzida-a&show_icons=true&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF"
   alt="Sanzida Akter's GitHub statistics"
   height="170"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzida-a&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzida-a&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
   alt="Most used languages across Sanzida Akter's public GitHub repositories"
   height="170"
 />
@@ -184,7 +183,7 @@ software development, and technical leadership.
 <br>
 
 <img
-  src="https://streak-stats.demolab.com?user=sanzida-a&hide_border=true&background=0D1117&stroke=30363D&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E"
+  src="https://streak-stats.demolab.com?user=sanzida-a&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E"
   alt="Sanzida Akter's GitHub contribution streak"
   height="170"
 />
@@ -207,7 +206,7 @@ technical leadership, and collaborative projects**.
 <br><br>
 
 <img
-  src="https://komarev.com/ghpvc/?username=sanzida-a&label=PROFILE+VIEWS&color=00FF9C&style=flat-square&labelColor=0D1117"
+  src="https://komarev.com/ghpvc/?username=sanzida-a&label=PROFILE+VIEWS&color=58A6FF&style=flat-square&labelColor=0D1117"
   alt="Profile view count"
 />
 
